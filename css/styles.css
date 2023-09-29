@@ -102,7 +102,6 @@ img {
 }
 .header-link:hover,
 .header-link:focus {
-  color: #404bbf;
 }
 
 .current::after {
