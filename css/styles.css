@@ -387,6 +387,10 @@ img {
   padding-top: 100px;
   padding-bottom: 100px;
 }
+.foot {
+  align-items: baseline;
+  display: flex;
+}
 .container-two {
   margin-right: 120px;
 }
@@ -412,7 +416,6 @@ img {
 }
 .footer-soc {
   align-items: center;
-  align-items: baseline;
 }
 .foot-par {
   font-size: 16px;
