@@ -104,9 +104,9 @@ img {
 .header-link:focus {
   color: #404bbf;
 }
-.header-link:hover::after,
-.header-link:focus::after,
-.header-link:active::after {
+.header-link:hover,
+.header-link:focus,
+.header-link current::after {
   width: 100%;
   height: 4px;
   border-radius: 2px;
@@ -145,7 +145,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office\ .jpg);
+    url(../images/people-office\.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
