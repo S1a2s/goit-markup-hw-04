@@ -445,3 +445,6 @@ img {
 .foot-soc-link:focus {
   background-color: #31d0aa;
 }
+.svg-foot {
+  fill: none;
+}
