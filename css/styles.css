@@ -106,7 +106,7 @@ img {
 }
 .header-link:hover,
 .header-link:focus,
-.header-link current::after {
+.current::after {
   width: 100%;
   height: 4px;
   border-radius: 2px;
