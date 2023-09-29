@@ -308,6 +308,9 @@ img {
 .soc-link:focus {
   background-color: #404bbf;
 }
+.svg-soc-link {
+  fill: #f4f4fd;
+}
 .portfolio {
 }
 .portfolio-name {
@@ -446,5 +449,5 @@ img {
   background-color: #31d0aa;
 }
 .svg-foot {
-  fill: none;
+  fill: #f4f4fd;
 }
